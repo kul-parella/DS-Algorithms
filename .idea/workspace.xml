@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c46d6ba-3ef4-417a-99fd-cb5fa85cbd54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Intro/Algorithms_understanding_sumOfFirstN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekForgeeks/arrays/ElementPresentOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekForgeeks/arrays/InsertElementArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/demo/Java8StreamsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/kafka_demo/src/main/java/com/kafka/example/kafka_demo/com/kafka/example/consumers/KafkaConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/kafka_demo/src/main/java/com/kafka/example/kafka_demo/com/kafka/example/consumers/KafkaConsumerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/kafka_demo/src/main/java/com/kafka/example/kafka_demo/com/kafka/example/consumers/KafkaDelayConsumer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/kafka_demo/src/main/java/com/kafka/example/kafka_demo/com/kafka/example/consumers/KafkaDelayConsumer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/kafka_demo/src/main/java/com/kafka/example/kafka_demo/com/kafka/example/controller/KafkaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/kafka_demo/src/main/java/com/kafka/example/kafka_demo/com/kafka/example/exception/SystemException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/kafka_demo/src/main/java/com/kafka/example/kafka_demo/com/kafka/example/producer/KafkaProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/kafka_demo/src/main/java/com/kafka/example/kafka_demo/com/kafka/example/util/KafkaConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kafka/kafka_demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../patient-batch-loader-start/src/main/java/com/pluralsight/springbatch/patientbatchloader/config/BatchConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootREST_LAB/springbootRest/springbootRest/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootREST_LAB/springbootRest/springbootRest/src/main/java/com/example/common/StatusMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootREST_LAB/springbootRest/springbootRest/src/main/java/com/example/common/SystemError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootREST_LAB/springbootRest/springbootRest/src/main/java/com/example/controllers/GetAccountDetailsV1Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootREST_LAB/springbootRest/springbootRest/src/main/java/com/example/controllers/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootREST_LAB/springbootRest/springbootRest/src/main/java/com/example/dao/GetAccountDetailsV1DAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootREST_LAB/springbootRest/springbootRest/src/main/java/com/example/dao/GetAccountDetailsV1DAOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootREST_LAB/springbootRest/springbootRest/src/main/java/com/example/entity/AccountDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootREST_LAB/springbootRest/springbootRest/src/main/java/com/example/entity/AccountInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootREST_LAB/springbootRest/springbootRest/src/main/java/com/example/entity/AccountKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootREST_LAB/springbootRest/springbootRest/src/main/java/com/example/entity/CustomerKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootREST_LAB/springbootRest/springbootRest/src/main/java/com/example/entity/GetAccountV1Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootREST_LAB/springbootRest/springbootRest/src/main/java/com/example/services/GetAccountDetailsV1Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootREST_LAB/springbootRest/springbootRest/src/main/java/com/example/services/GetAccountDetailsV1ServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootREST_LAB/springbootRest/springbootRest/src/main/java/com/example/springbootRest/SpringbootRestApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootREST_LAB/springbootRest/springbootRest/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java APIs/Hibernate.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java APIs/JEE7.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java APIs/JSE7.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java APIs/Spring.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java APIs/Struts.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/ConfigData/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/ConfigData/lab-3-client-northamerica.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/ConfigData/lab-3-client.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/ConfigData/lucky-word-client.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/LabInstructions/Lab 0.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/LabInstructions/Lab 1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/LabInstructions/Lab 10.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/LabInstructions/Lab 3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/LabInstructions/Lab 4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/LabInstructions/Lab 5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/LabInstructions/Lab 6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/LabInstructions/Lab 7.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/LabInstructions/Lab 8.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/LabInstructions/Lab 9.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/Spring_Security/Enable_resournce_server.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/Spring_Security/JWT_scope.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/Spring_Security/PreAuth_Annotation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/Spring_Security/security_ss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/Spring_Security/security_yml.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/W4 - 2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/common/config-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/common/config-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/common/config-server/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/common/config-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/common/config-server/src/test/java/demo/OutOfContainerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/common/config-server/src/test/resources/offline-repository/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/common/config-server/src/test/resources/offline-repository/testConfig.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/common/eureka-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/common/eureka-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/common/eureka-server/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/common/eureka-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/common/eureka-server/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/common/eureka-server/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-1/boot-solution/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-1/boot-solution/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-1/boot-solution/src/main/java/demo/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-1/boot-solution/src/main/java/demo/controller/TeamController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-1/boot-solution/src/main/java/demo/domain/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-1/boot-solution/src/main/java/demo/domain/Team.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-1/boot-solution/src/main/java/demo/repository/PlayerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-1/boot-solution/src/main/java/demo/repository/TeamRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-1/boot-solution/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-1/boot-solution/src/main/resources/templates/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-1/boot-solution/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/client-solution/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/client-solution/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/client-solution/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/client-solution/src/main/java/demo/LuckyWordController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/client-solution/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/client-solution/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/client/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/client/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/client/src/main/java/demo/LuckyWordController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/client/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/client/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/config-server-solution/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/config-server-solution/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/config-server-solution/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/config-server-solution/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/config-server-solution/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/config-server-solution/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/config-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/config-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/config-server/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/config-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-10/config-server/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-3/client-solution/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-3/client-solution/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-3/client-solution/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-3/client-solution/src/main/java/demo/LuckyWordController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-3/client-solution/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-3/client-solution/src/test/java/demo/IntegrationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-3/client-solution/src/test/java/demo/OutOfContainerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-3/client-solution/src/test/java/demo/test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-3/server-solution/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-3/server-solution/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-3/server-solution/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-3/server-solution/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-3/server-solution/src/test/java/demo/OutOfContainerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-3/server-solution/src/test/resources/offline-repository/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-3/server-solution/src/test/resources/offline-repository/testConfig.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-4/eureka-client-solution/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-4/eureka-client-solution/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-4/eureka-client-solution/run-all.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-4/eureka-client-solution/src/main/java/demo/MyApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-4/eureka-client-solution/src/main/java/demo/SentenceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-4/eureka-client-solution/src/main/java/demo/WordController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-4/eureka-client-solution/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-4/eureka-client-solution/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-4/eureka-client-solution/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-4/eureka-server-solution/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-4/eureka-server-solution/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-4/eureka-server-solution/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-4/eureka-server-solution/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-4/eureka-server-solution/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-4/eureka-server-solution/src/test/java/demo/OutOfContainerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/sentence-server-solution/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/sentence-server-solution/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/sentence-server-solution/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/sentence-server-solution/src/main/java/demo/SentenceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/sentence-server-solution/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/sentence-server-solution/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/sentence-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/sentence-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/sentence-server/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/sentence-server/src/main/java/demo/SentenceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/sentence-server/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/sentence-server/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/word-server-solution/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/word-server-solution/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/word-server-solution/run-all.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/word-server-solution/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/word-server-solution/src/main/java/demo/WordController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/word-server-solution/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/word-server-solution/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/word-server-solution/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/word-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/word-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/word-server/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/word-server/src/main/java/demo/WordController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/word-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/word-server/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-5/word-server/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server-solution/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server-solution/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server-solution/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server-solution/src/main/java/demo/controller/SentenceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server-solution/src/main/java/demo/dao/AdjectiveClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server-solution/src/main/java/demo/dao/ArticleClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server-solution/src/main/java/demo/dao/NounClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server-solution/src/main/java/demo/dao/SubjectClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server-solution/src/main/java/demo/dao/VerbClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server-solution/src/main/java/demo/domain/Word.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server-solution/src/main/java/demo/service/SentenceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server-solution/src/main/java/demo/service/SentenceServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server-solution/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server-solution/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server-solution/src/test/java/demo/service/SentenceServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server/src/main/java/demo/controller/SentenceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server/src/main/java/demo/dao/AdjectiveDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server/src/main/java/demo/dao/ArticleDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server/src/main/java/demo/dao/NounDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server/src/main/java/demo/dao/SubjectDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server/src/main/java/demo/dao/VerbDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server/src/main/java/demo/dao/WordDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server/src/main/java/demo/dao/WordDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server/src/main/java/demo/domain/Word.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server/src/main/java/demo/service/SentenceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server/src/main/java/demo/service/SentenceServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/sentence-server/src/test/java/demo/service/SentenceServiceImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/word-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/word-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/word-server/run-all.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/word-server/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/word-server/src/main/java/demo/Word.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/word-server/src/main/java/demo/WordController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/word-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/word-server/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-6/word-server/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution-reactive/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution-reactive/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution-reactive/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution-reactive/src/main/java/demo/controller/SentenceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution-reactive/src/main/java/demo/dao/AdjectiveClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution-reactive/src/main/java/demo/dao/ArticleClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution-reactive/src/main/java/demo/dao/NounClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution-reactive/src/main/java/demo/dao/SubjectClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution-reactive/src/main/java/demo/dao/VerbClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution-reactive/src/main/java/demo/domain/Sentence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution-reactive/src/main/java/demo/domain/Word.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution-reactive/src/main/java/demo/service/SentenceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution-reactive/src/main/java/demo/service/SentenceServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution-reactive/src/main/java/demo/service/WordService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution-reactive/src/main/java/demo/service/WordServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution-reactive/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution-reactive/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution/src/main/java/demo/controller/SentenceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution/src/main/java/demo/dao/AdjectiveClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution/src/main/java/demo/dao/ArticleClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution/src/main/java/demo/dao/NounClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution/src/main/java/demo/dao/SubjectClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution/src/main/java/demo/dao/VerbClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution/src/main/java/demo/domain/Word.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution/src/main/java/demo/service/SentenceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution/src/main/java/demo/service/SentenceServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution/src/main/java/demo/service/WordService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution/src/main/java/demo/service/WordServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server-solution/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server/src/main/java/demo/controller/SentenceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server/src/main/java/demo/dao/AdjectiveClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server/src/main/java/demo/dao/ArticleClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server/src/main/java/demo/dao/NounClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server/src/main/java/demo/dao/SubjectClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server/src/main/java/demo/dao/VerbClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server/src/main/java/demo/domain/Word.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server/src/main/java/demo/service/SentenceService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server/src/main/java/demo/service/SentenceServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server/src/main/java/demo/service/WordService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server/src/main/java/demo/service/WordServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/sentence-server/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/turbine-solution/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/turbine-solution/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/turbine-solution/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/turbine-solution/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/turbine-solution/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/turbine-solution/src/test/java/demo/Lab7TurbineSolutionApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/word-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/word-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/word-server/run-all.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/word-server/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/word-server/src/main/java/demo/Word.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/word-server/src/main/java/demo/WordController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/word-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/word-server/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-7/word-server/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/client-solution/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/client-solution/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/client-solution/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/client-solution/src/main/java/demo/LuckyWordController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/client-solution/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/client-solution/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/client-solution/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/client/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/client/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/client/src/main/java/demo/LuckyWordController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/client/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/client/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/client/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/config-server-solution/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/config-server-solution/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/config-server-solution/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/config-server-solution/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/config-server-solution/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/config-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/config-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/config-server/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/config-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-8/config-server/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/gateway-solution/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/gateway-solution/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/gateway-solution/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/gateway-solution/src/main/java/demo/SentenceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/gateway-solution/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/gateway-solution/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/gateway-solution/src/main/resources/static/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/gateway-solution/src/main/resources/static/js/jquery-1.11.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/gateway-solution/src/main/resources/templates/sentence.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/gateway-solution/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/gateway/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/gateway/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/gateway/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/gateway/src/main/java/demo/SentenceController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/gateway/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/gateway/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/gateway/src/main/resources/static/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/gateway/src/main/resources/static/js/jquery-1.11.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/gateway/src/main/resources/templates/sentence.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/gateway/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/word-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/word-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/word-server/src/main/java/demo/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/word-server/src/main/java/demo/Word.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/word-server/src/main/java/demo/WordController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/word-server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/word-server/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices-With-Spring-Student-Files-master/lab-9/word-server/src/test/java/demo/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../STS.exe - Shortcut.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../appartment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git-cheat-sheet-education.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../git/RetroFit_Demo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../global_Consent_signed.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../global_consent.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld/bin/www" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld/manifest.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld/public/stylesheets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld/routes/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld/routes/users.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld/views/error.jade" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld/views/index.jade" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworld/views/layout.jade" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../infy/At-will_employment_Agreement.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../infy/Benefits.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../infy/NonCompete&amp;NonSolicitationAgreement.pdf" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Intro/Algorithms_understanding_sumOfFirstN.java" />
+        <option value="$PROJECT_DIR$/src/com/geekForgeeks/arrays/ElementPresentOrNot.java" />
+        <option value="$PROJECT_DIR$/src/com/geekForgeeks/arrays/InsertElementArray.java" />
+        <option value="$PROJECT_DIR$/src/com/java8/demo/Java8StreamsDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="107" />
+    <option name="y" value="31" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Intro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606058742234" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kafka/kafka_demo" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Java8StreamsDemo">
+    <configuration name="Algorithms_understanding_sumOfFirstN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Intro.Algorithms_understanding_sumOfFirstN" />
+      <module name="DS&amp;Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Intro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElementPresentOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekForgeeks.arrays.ElementPresentOrNot" />
+      <module name="DS&amp;Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geekForgeeks.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertElementArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekForgeeks.arrays.InsertElementArray" />
+      <module name="DS&amp;Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geekForgeeks.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java8StreamsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.demo.Java8StreamsDemo" />
+      <module name="DS&amp;Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Java8StreamsDemo" />
+        <item itemvalue="Application.InsertElementArray" />
+        <item itemvalue="Application.ElementPresentOrNot" />
+        <item itemvalue="Application.Algorithms_understanding_sumOfFirstN" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c46d6ba-3ef4-417a-99fd-cb5fa85cbd54" name="Default Changelist" comment="" />
+      <created>1587944368032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587944368032</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2692802" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.30551818" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32974428" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32974428" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>arr.length-1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arr[i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arr.length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_05/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="144" column="19" selection-start-line="144" selection-start-column="19" selection-end-line="144" selection-end-column="19" />
+          <folding>
+            <element signature="e#4242#4243#0" expanded="true" />
+            <element signature="e#4278#4279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_05/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="103" column="19" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekForgeeks/arrays/ElementPresentOrNot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekForgeeks/arrays/InsertElementArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java8/demo/Java8StreamsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intro/Algorithms_understanding_sumOfFirstN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DataStructures</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
