@@ -4,8 +4,11 @@
     <list default="true" id="6c46d6ba-3ef4-417a-99fd-cb5fa85cbd54" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Intro/Algorithms_understanding_sumOfFirstN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekForgeeks/Math/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekForgeeks/Math/FactorialTrailingZeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekForgeeks/Math/NumOfDigitsOfNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/geekForgeeks/Math/PalindromeNumber.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/geekForgeeks/arrays/ElementPresentOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/geekForgeeks/arrays/InsertElementArray.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/java8/demo/Java8StreamsDemo.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../kafka/kafka_demo/src/main/java/com/kafka/example/kafka_demo/com/kafka/example/consumers/KafkaConsumer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../kafka/kafka_demo/src/main/java/com/kafka/example/kafka_demo/com/kafka/example/consumers/KafkaConsumerConfig.java" afterDir="false" />
@@ -33,6 +36,14 @@
       <change afterPath="$PROJECT_DIR$/../springbootREST_LAB/springbootRest/springbootRest/src/main/java/com/example/services/GetAccountDetailsV1ServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../springbootREST_LAB/springbootRest/springbootRest/src/main/java/com/example/springbootRest/SpringbootRestApplication.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../springbootREST_LAB/springbootRest/springbootRest/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/Intro/Algorithms_understanding_sumOfFirstN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/com/geekForgeeks/arrays/ElementPresentOrNot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/com/geekForgeeks/arrays/InsertElementArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/com/java8/demo/Java8StreamsDemo$1Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/com/java8/demo/Java8StreamsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/geekForgeeks/arrays/InsertElementArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/geekForgeeks/arrays/InsertElementArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java APIs/Hibernate.lnk" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java APIs/JEE7.lnk" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java APIs/JSE7.lnk" beforeDir="false" />
@@ -348,8 +359,103 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DataStructures$InsertElementArray.ic" NAME="InsertElementArray Coverage Results" MODIFIED="1606353174389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.geekForgeeks.arrays.*</FILTER>
+    </SUITE>
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/geekForgeeks/Math/PalindromeNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/geekForgeeks/Math/Factorial.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+              <folding>
+                <element signature="e#101#102#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/geekForgeeks/Math/FactorialTrailingZeros.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/geekForgeeks/Math/NumOfDigitsOfNum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/geekForgeeks/arrays/ElementPresentOrNot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/geekForgeeks/arrays/InsertElementArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="162" lean-forward="true" selection-start-line="162" selection-end-line="162" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java8/demo/Java8StreamsDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Intro/Algorithms_understanding_sumOfFirstN.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -359,15 +465,19 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Intro/Algorithms_understanding_sumOfFirstN.java" />
         <option value="$PROJECT_DIR$/src/com/geekForgeeks/arrays/ElementPresentOrNot.java" />
-        <option value="$PROJECT_DIR$/src/com/geekForgeeks/arrays/InsertElementArray.java" />
         <option value="$PROJECT_DIR$/src/com/java8/demo/Java8StreamsDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/geekForgeeks/Math/NumOfDigitsOfNum.java" />
+        <option value="$PROJECT_DIR$/src/com/geekForgeeks/Math/PalindromeNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/geekForgeeks/Math/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/com/geekForgeeks/Math/FactorialTrailingZeros.java" />
+        <option value="$PROJECT_DIR$/src/com/geekForgeeks/arrays/InsertElementArray.java" />
       </list>
     </option>
   </component>
@@ -383,7 +493,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -407,7 +517,23 @@
               <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="geekForgeeks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="geekForgeeks" type="462c0819:PsiDirectoryNode" />
               <item name="arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructures" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="geekForgeeks" type="462c0819:PsiDirectoryNode" />
+              <item name="Math" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructures" type="b2602c69:ProjectViewProjectNode" />
@@ -430,11 +556,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606058742234" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606365772783" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../kafka/kafka_demo" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -453,13 +579,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Java8StreamsDemo">
-    <configuration name="Algorithms_understanding_sumOfFirstN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Intro.Algorithms_understanding_sumOfFirstN" />
+  <component name="RunManager" selected="Application.InsertElementArray">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekForgeeks.Math.Factorial" />
       <module name="DS&amp;Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Intro.*" />
+          <option name="PATTERN" value="com.geekForgeeks.Math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -467,12 +593,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElementPresentOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.geekForgeeks.arrays.ElementPresentOrNot" />
+    <configuration name="FactorialTrailingZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekForgeeks.Math.FactorialTrailingZeros" />
       <module name="DS&amp;Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.geekForgeeks.arrays.*" />
+          <option name="PATTERN" value="com.geekForgeeks.Math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -493,12 +619,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java8StreamsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.demo.Java8StreamsDemo" />
+    <configuration name="NumOfDigitsOfNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekForgeeks.Math.NumOfDigitsOfNum" />
       <module name="DS&amp;Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.demo.*" />
+          <option name="PATTERN" value="com.geekForgeeks.Math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.geekForgeeks.Math.PalindromeNumber" />
+      <module name="DS&amp;Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.geekForgeeks.Math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -508,10 +647,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Java8StreamsDemo" />
         <item itemvalue="Application.InsertElementArray" />
-        <item itemvalue="Application.ElementPresentOrNot" />
-        <item itemvalue="Application.Algorithms_understanding_sumOfFirstN" />
+        <item itemvalue="Application.FactorialTrailingZeros" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.PalindromeNumber" />
+        <item itemvalue="Application.NumOfDigitsOfNum" />
       </list>
     </recent_temporary>
   </component>
@@ -530,8 +670,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2692802" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27570695" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -540,8 +681,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.30551818" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36339167" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -549,6 +690,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32974428" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32974428" />
+      <window_info anchor="right" id="Coverage" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -559,10 +701,46 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/geekForgeeks/Math/NumOfDigitsOfNum.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/geekForgeeks/Math/Factorial.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/geekForgeeks/Math/FactorialTrailingZeros.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/geekForgeeks/Math/FactorialTrailingZeros.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/geekForgeeks/Math/FactorialTrailingZeros.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>arr.length-1</expression-string>
+        <expression-string>arr.length</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -572,12 +750,22 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
+        <expression-string>arr[i+1]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>arr[i]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>arr.length</expression-string>
+        <expression-string>number/10</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arr.length-1</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -602,9 +790,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_05/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="316" column="25" selection-start-line="316" selection-start-column="25" selection-end-line="316" selection-end-column="25" />
+          <folding>
+            <element signature="e#11999#12000#0" expanded="true" />
+            <element signature="e#12082#12083#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/geekForgeeks/arrays/ElementPresentOrNot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
+        <state relative-caret-position="308">
           <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -614,18 +813,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/geekForgeeks/arrays/InsertElementArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="450">
+          <caret line="162" lean-forward="true" selection-start-line="162" selection-end-line="162" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekForgeeks/Math/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekForgeeks/Math/FactorialTrailingZeros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekForgeeks/Math/NumOfDigitsOfNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/geekForgeeks/Math/PalindromeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/java8/demo/Java8StreamsDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1716">
-          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        <state relative-caret-position="418">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -634,8 +869,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Intro/Algorithms_understanding_sumOfFirstN.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="49" column="12" lean-forward="true" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+        <state relative-caret-position="264">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
         </state>
       </provider>
     </entry>
